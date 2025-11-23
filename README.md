@@ -111,16 +111,14 @@ The LangChain framework revolves around the following building blocks:
 
 - Python 3.7+
 - langchain 0.3.13
-- Please ensure that you add your OpenAI API key to the empty text file named "OpenAI_API_Key.txt" in order to access
-  the
-  OpenAI API.
+
 
 ## 8. Running
 
 - Clone the github repository
   ```shell
-  $ git clone https://github.com/SanjayaKumarSahoo/semantic-spotter-project.git
+  $ git clone https://github.com/axwrx/spotter_case_study.git
   ```
 - Open
-  the [notebook](https://github.com/SanjayaKumarSahoo/semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
+  the [notebook](https://github.com/axwrx/spotter_case_study/blob/main/semantic-spotter-langchain-notebook.ipynb)
   in jupyter and run all cells.
